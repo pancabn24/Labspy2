@@ -1,11 +1,12 @@
 #Labspy2 
 Langkah Pertama Membuat variabel seperti berikut :
 
-![image](https://user-images.githubusercontent.com/57063776/68074446-a7fcdb00-fdcd-11e9-8ad9-33cbeda76765.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/57063776/69487900-c322ae00-0e94-11ea-8df6-4856c113977a.png)
 
 Setelah membuat variabel lanjut memasukan keywords seperti ini
 
-![image](https://user-images.githubusercontent.com/57063776/68074521-7fc1ac00-fdce-11e9-8d00-90791d5fa35c.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/57063776/69487906-fe24e180-0e94-11ea-8c6b-b350fea4d869.png)
+
 
 Penjelasan Program
 1. Masukan 3 buah bilangan
@@ -20,4 +21,4 @@ Penjelasan Program
 
 Flowchart mencari bilangan terbesar
 
-![image](https://user-images.githubusercontent.com/57063776/68074610-7be25980-fdcf-11e9-84c5-0942fa9b1130.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/57063776/69487915-3f1cf600-0e95-11ea-9c86-1192e3768273.png)
